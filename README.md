@@ -1,4 +1,7 @@
 # GentelmanAngularTest
+Hacemos una app en Angular ! #buenasprácticas, #cleanarchitecture , #Typescript , #RxJS y más
+Tutorial seguido de [Gentleman Programming](https://www.youtube.com/watch?v=4J1onUTl--8&list=PL42UNLc8e48TK24-hBKfDMbZjQB8xFrOA&index=13)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
 
